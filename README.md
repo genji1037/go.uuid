@@ -1,5 +1,5 @@
 # UUID package for Go language
-a
+ab
 
 [![Build Status](https://travis-ci.org/satori/go.uuid.svg?branch=master)](https://travis-ci.org/satori/go.uuid)
 [![Coverage Status](https://coveralls.io/repos/github/satori/go.uuid/badge.svg?branch=master)](https://coveralls.io/github/satori/go.uuid)
